@@ -1,0 +1,3 @@
+Completed all the videos 
+Fmiliar with erlang shell
+
